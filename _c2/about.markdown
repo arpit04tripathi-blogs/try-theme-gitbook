@@ -1,8 +1,8 @@
 ---
 layout    : post
-title     : About
-date      : 2020-01-01 08:00:00 -0500
-permalink : /about/
+title     : C2
+date      : 2019-01-01 08:00:00 -0500
+permalink : /c2/
 ---
 
 # test
