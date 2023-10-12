@@ -5,4 +5,4 @@
 layout: home
 ---
 
-This is my index page
+This is index page for try-theme-gitbook
