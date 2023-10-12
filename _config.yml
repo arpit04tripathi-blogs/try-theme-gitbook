@@ -66,9 +66,3 @@ collections:
   pages:
     output: true
     permalink: /:collection/:path/
-  c2:
-    output: true
-    permalink: /:collection/:path/
-  java_8:
-    output: true
-    permalink: /:collection/:path/
