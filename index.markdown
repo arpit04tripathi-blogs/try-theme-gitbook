@@ -8,4 +8,7 @@ layout: home
 This is index page for try-theme-gitbook
 
 - [about](about)
+- [test](test)
 - [about-copy](about-copy)
+- [root](/root)
+- [sibling](./sibling)

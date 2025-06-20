@@ -1,8 +1,8 @@
 ---
 layout    : post
-title     : About Copy
+title     : Test
 date      : 2020-08-08 08:00:00 -0500
-permalink : /about-copy/
+permalink : /test/
 ---
 
 # test
